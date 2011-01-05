@@ -1,0 +1,8 @@
+[user]
+	name = Arkajit Dey
+	email = arkajit@quizlet.com
+[alias]
+	st = status
+	stat = status
+	ci = commit
+	unstage = reset HEAD
