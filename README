@@ -1,1 +1,9 @@
 A collection of arkajit's personal preference files.
+
+To install these preferences on a new machine, follow these steps. Suppose that this repository is
+cloned in a directory called `preferences`. Run these commands from the user's home directory:
+
+1. ln -s preferences/.bashrc .bashrc
+2. ln -s preferences/.bash_colors .bash_colors
+3. ln -s preferences/.bash_profile .bash_profile
+4. ln -s preferences/.bash_aliases .bash_aliases
