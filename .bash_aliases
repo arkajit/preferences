@@ -1,7 +1,6 @@
-WORKSPACE='~/workspace'
-
-alias cdw="cd $WORKSPACE"
 alias g="git"
-alias gg="git grep"
+alias v="vim"
+alias vc="vim ~/COMMANDS"
+alias gg="git grep -n"
 alias lh="ls -l -h";
 alias ll="ls -l";
